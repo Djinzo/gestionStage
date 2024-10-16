@@ -1,0 +1,24 @@
+{
+  "filieres": [
+    {
+      "id": "filiere 1",
+      "name": "filiere 1",
+      "groupe": ["groupe 1", "groupe 2", "groupe 3", "groupe 4"]
+    },
+    {
+      "id": "filiere 2",
+      "name": "filiere 2",
+      "groupe": ["groupe 1", "groupe 2", "groupe 3"]
+    },
+    {
+      "id": "filiere 3",
+      "name": "filiere 3",
+      "groupe": ["groupe 1", "groupe 2"]
+    },
+    {
+      "id": "filiere 4",
+      "name": "filiere 4",
+      "groupe": ["groupe 1", "groupe 2", "groupe 3", "groupe 4", "groupe 5"]
+    }
+  ]
+}
